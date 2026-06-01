@@ -1,0 +1,38 @@
+### **📜  OMIT PUBLIC LICENSE (OPL)**
+
+**Version 2.1 (Secure Use), June 2026Copyright (c) 2026 OMIT-Official. All Rights Reserved.**
+
+### **TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION**
+
+**1. DEFINITIONS**
+
+- **"License"** shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
+- **"Licensor"** shall mean **OMIT-Official**, the entity owning the Intellectual Property of the Work.
+- **"Work"** shall mean the software library, tool, or utility made available by the Licensor under this License within the `OMIT-Library` repository or associated packages.
+- **"Modification"** shall mean any change, adaptation, derivative work, reverse engineering, decompilation, or alteration of the Source Code or Object Code.
+
+**2. GRANT OF RIGHTS (Use Only)**
+Subject to the terms of this License, Licensor hereby grants to any person or entity a worldwide, non-exclusive, no-charge, royalty-free license to:
+
+- a) **USE** the Work in its original, unmodified form for any purpose (including Personal, Educational, and Commercial use).
+- b) **DISTRIBUTE** copies of the Work in its original binary/object form, provided that no modifications are made and this License is included intact.
+
+**3. RESTRICTIONS (The Iron Shield)**
+
+- a) **NO MODIFICATION:** It is strictly prohibited to modify, adapt, reverse engineer, decompile, disassemble, or create derivative works from the Work. The Work must be used "as is".
+- b) **NO SOURCE CODE REDISTRIBUTION:** You may not distribute, publish, or share the Source Code of the Work. Only official compiled packages provided directly by OMIT-Official are allowed for distribution.
+- c) **NO RESELLING:** You may not sell, lease, or license the Work itself as a standalone product or service.
+- d) **ATTRIBUTION:** You must retain all copyright notices (`Copyright (c) 2026 OMIT-Official`) and attribution markers in your documentation or interface if you distribute the Work.
+
+**4. INTELLECTUAL PROPERTY**
+
+- The name **"OMIT-Official"**, **"OMIT"**, and their associated logos are trademarks of the Licensor.
+- You may not use these trademarks to endorse, promote, or name your own products or services without specific prior written permission from the Licensor.
+
+**5. DISCLAIMER OF WARRANTY**
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE WORK.
+
+**6. GOVERNING LAW**
+This License shall be governed by and construed in accordance with the laws of **Italy**, without regard to its conflict of law provisions.
+
+**END OF TERMS AND CONDITIONS**
