@@ -27,3 +27,4 @@ Every build released by OMIT-Official contains a unique Build ID for integrity v
 🔗 Connect with OMIT-Official
 Organization: github.com/OMIT-Official
 Support: Open an Issue
+© 2026 OMIT-Official. All Rights Reserved.
