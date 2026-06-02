@@ -1,38 +1,77 @@
-### **📜  OMIT PUBLIC LICENSE (OPL)**
+### **📜 LICENCIA PÚBLICA OMIT (OPL)**
 
-**Version 2.1 (Secure Use), June 2026Copyright (c) 2026 OMIT-Official. All Rights Reserved.**
+**Versión 2.1 (Uso Seguro), Junio de 2026  
+Copyright (c) 2026 OMIT-Official. Todos los derechos reservados.**
 
-### **TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION**
+### **TÉRMINOS Y CONDICIONES PARA EL USO, REPRODUCCIÓN Y DISTRIBUCIÓN**
 
-**1. DEFINITIONS**
+**1. DEFINICIONES**
 
-- **"License"** shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
-- **"Licensor"** shall mean **OMIT-Official**, the entity owning the Intellectual Property of the Work.
-- **"Work"** shall mean the software library, tool, or utility made available by the Licensor under this License within the `OMIT-Library` repository or associated packages.
-- **"Modification"** shall mean any change, adaptation, derivative work, reverse engineering, decompilation, or alteration of the Source Code or Object Code.
+- **"Licencia"** significará los términos y condiciones para el uso, reproducción y distribución tal como se definen en este documento.
+- **"Licenciante"** significará **OMIT-Official**, la entidad propietaria de la Propiedad Intelectual de la Obra.
+- **"Obra"** significará la librería de software, herramienta o utilidad puesta a disposición por el Licenciante bajo esta Licencia dentro del repositorio `OMIT-Library` o sus paquetes asociados.
+- **"Modificación"** significará cualquier cambio, adaptación, trabajo derivado, ingeniería inversa, descompilación o alteración del Código Fuente o Código Objeto.
 
-**2. GRANT OF RIGHTS (Use Only)**
-Subject to the terms of this License, Licensor hereby grants to any person or entity a worldwide, non-exclusive, no-charge, royalty-free license to:
+**2. CONCESIÓN DE DERECHOS (Solo Uso)**
+Sujeto a los términos de esta Licencia, el Licenciante otorga por la presente a cualquier persona o entidad una licencia mundial, no exclusiva, sin cargo y libre de regalías para:
 
-- a) **USE** the Work in its original, unmodified form for any purpose (including Personal, Educational, and Commercial use).
-- b) **DISTRIBUTE** copies of the Work in its original binary/object form, provided that no modifications are made and this License is included intact.
+- a) **USAR** la Obra en su forma original y no modificada para cualquier propósito (incluyendo el uso Personal, Educativo y Comercial).
+- b) **DISTRIBUIR** copias de la Obra en su forma original de binario/objeto, siempre que no se realicen modificaciones y esta Licencia se incluya intacta.
 
-**3. RESTRICTIONS (The Iron Shield)**
+**3. RESTRICCIONES (El Escudo de Hierro)**
 
-- a) **NO MODIFICATION:** It is strictly prohibited to modify, adapt, reverse engineer, decompile, disassemble, or create derivative works from the Work. The Work must be used "as is".
-- b) **NO SOURCE CODE REDISTRIBUTION:** You may not distribute, publish, or share the Source Code of the Work. Only official compiled packages provided directly by OMIT-Official are allowed for distribution.
-- c) **NO RESELLING:** You may not sell, lease, or license the Work itself as a standalone product or service.
-- d) **ATTRIBUTION:** You must retain all copyright notices (`Copyright (c) 2026 OMIT-Official`) and attribution markers in your documentation or interface if you distribute the Work.
+- a) **PROHIBIDA LA MODIFICACIÓN:** Está estrictamente prohibido modificar, adaptar, aplicar ingeniería inversa, descompilar, desensamblar o crear trabajos derivados de la Obra. La Obra debe utilizarse "tal cual".
+- b) **PROHIBIDA LA REDISTRIBUCIÓN DEL CÓDIGO FUENTE:** No se permite distribuir, publicar ni compartir el Código Fuente de la Obra. Solo se permite la distribución de los paquetes compilados oficiales proporcionados directamente por OMIT-Official.
+- c) **PROHIBIDA LA REVENTA:** No se permite vender, arrendar ni licenciar la Obra por sí misma como un producto o servicio independiente.
+- d) **ATRIBUCIÓN:** Se deben conservar todos los avisos de derechos de autor (`Copyright (c) 2026 OMIT-Official`) y los marcadores de atribución en su documentación o interfaz si se distribuye la Obra.
 
-**4. INTELLECTUAL PROPERTY**
+**4. PROPIEDAD INTELECTUAL**
 
-- The name **"OMIT-Official"**, **"OMIT"**, and their associated logos are trademarks of the Licensor.
-- You may not use these trademarks to endorse, promote, or name your own products or services without specific prior written permission from the Licensor.
+- El nombre **"OMIT-Official"**, **"OMIT"** y sus logotipos asociados son marcas comerciales del Licenciante.
+- No se pueden utilizar estas marcas comerciales para respaldar, promocionar o nombrar sus propios productos o servicios sin el permiso previo por escrito del Licenciante.
 
-**5. DISCLAIMER OF WARRANTY**
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE WORK.
+**5. EXCLUSIÓN DE GARANTÍA**
+LA OBRA SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO SIN LIMITARSE A, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL LICENCIANTE SERÁ RESPONSABLE DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD QUE JURIDICAMENTE SURJA DEL USO DE LA OBRA.
 
-**6. GOVERNING LAW**
-This License shall be governed by and construed in accordance with the laws of **Italy**, without regard to its conflict of law provisions.
+**6. LEY APLICABLE**
+Esta Licencia se gobernará e interpretará de acuerdo con las leyes de **Italia**, sin tener en cuenta sus disposiciones sobre conflictos de leyes.
 
-**END OF TERMS AND CONDITIONS**
+**FIN DE LOS TÉRMINOS Y CONDICIONES**### **📜 LICENCIA PÚBLICA OMIT (OPL)**
+
+**Versión 2.1 (Uso Seguro), Junio de 2026  
+Copyright (c) 2026 OMIT-Official. Todos los derechos reservados.**
+
+### **TÉRMINOS Y CONDICIONES PARA EL USO, REPRODUCCIÓN Y DISTRIBUCIÓN**
+
+**1. DEFINICIONES**
+
+- **"Licencia"** significará los términos y condiciones para el uso, reproducción y distribución tal como se definen en este documento.
+- **"Licenciante"** significará **OMIT-Official**, la entidad propietaria de la Propiedad Intelectual de la Obra.
+- **"Obra"** significará la librería de software, herramienta o utilidad puesta a disposición por el Licenciante bajo esta Licencia dentro del repositorio `OMIT-Library` o sus paquetes asociados.
+- **"Modificación"** significará cualquier cambio, adaptación, trabajo derivado, ingeniería inversa, descompilación o alteración del Código Fuente o Código Objeto.
+
+**2. CONCESIÓN DE DERECHOS (Solo Uso)**
+Sujeto a los términos de esta Licencia, el Licenciante otorga por la presente a cualquier persona o entidad una licencia mundial, no exclusiva, sin cargo y libre de regalías para:
+
+- a) **USAR** la Obra en su forma original y no modificada para cualquier propósito (incluyendo el uso Personal, Educativo y Comercial).
+- b) **DISTRIBUIR** copias de la Obra en su forma original de binario/objeto, siempre que no se realicen modificaciones y esta Licencia se incluya intacta.
+
+**3. RESTRICCIONES (El Escudo de Hierro)**
+
+- a) **PROHIBIDA LA MODIFICACIÓN:** Está estrictamente prohibido modificar, adaptar, aplicar ingeniería inversa, descompilar, desensamblar o crear trabajos derivados de la Obra. La Obra debe utilizarse "tal cual".
+- b) **PROHIBIDA LA REDISTRIBUCIÓN DEL CÓDIGO FUENTE:** No se permite distribuir, publicar ni compartir el Código Fuente de la Obra. Solo se permite la distribución de los paquetes compilados oficiales proporcionados directamente por OMIT-Official.
+- c) **PROHIBIDA LA REVENTA:** No se permite vender, arrendar ni licenciar la Obra por sí misma como un producto o servicio independiente.
+- d) **ATRIBUCIÓN:** Se deben conservar todos los avisos de derechos de autor (`Copyright (c) 2026 OMIT-Official`) y los marcadores de atribución en su documentación o interfaz si se distribuye la Obra.
+
+**4. PROPIEDAD INTELECTUAL**
+
+- El nombre **"OMIT-Official"**, **"OMIT"** y sus logotipos asociados son marcas comerciales del Licenciante.
+- No se pueden utilizar estas marcas comerciales para respaldar, promocionar o nombrar sus propios productos o servicios sin el permiso previo por escrito del Licenciante.
+
+**5. EXCLUSIÓN DE GARANTÍA**
+LA OBRA SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO SIN LIMITARSE A, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL LICENCIANTE SERÁ RESPONSABLE DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD QUE JURIDICAMENTE SURJA DEL USO DE LA OBRA.
+
+**6. LEY APLICABLE**
+Esta Licencia se gobernará e interpretará de acuerdo con las leyes de **Italia**, sin tener en cuenta sus disposiciones sobre conflictos de leyes.
+
+**FIN DE LOS TÉRMINOS Y CONDICIONES**
