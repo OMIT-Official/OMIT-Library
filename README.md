@@ -1,62 +1,62 @@
 # OMIT-Library
 
-A curated collection of essential development tools. Built by **OMIT-Official**. Designed for efficiency, stability, and universal utility.
+Una colección seleccionada de herramientas de desarrollo esenciales. Creado por **OMIT-Official**. Diseñado para ofrecer eficiencia, estabilidad y utilidad universal.
 
 ---
 
-## 📖 About
+## 📖 Acerca de
 
-**OMIT-Library** is the primary repository for public utilities developed by **OMIT-Official**. This collection features lightweight, high-performance libraries designed to solve common development challenges across multiple languages and frameworks. 
+**OMIT-Library** es el repositorio principal de utilidades públicas desarrolladas por **OMIT-Official**. Esta colección cuenta con librerías ligeras y de alto rendimiento, diseñadas para resolver desafíos de desarrollo comunes en múltiples lenguajes y frameworks. 
 
-Each tool within this library adheres to strict standards of code quality, security, and ease of use. Whether you are building small scripts or large-scale applications, these utilities provide the foundational blocks you need.
-
----
-
-## 📦 Available Tools
-
-This repository serves as a central hub for various independent packages. Each tool is designed with a unique identity and specific purpose, ranging from data handling to network optimization. 
-
-New tools are regularly added to this collection. For detailed documentation and installation instructions for each specific package, please refer to the individual folders or the official release notes.
+Cada herramienta dentro de esta librería cumple con estrictos estándares de calidad de código, seguridad y facilidad de uso. Ya sea que estés construyendo pequeños scripts o aplicaciones a gran escala, estas utilidades proporcionan los bloques fundamentales que necesitas.
 
 ---
 
-## ⚙️ General Usage
+## 📦 Herramientas Disponibles
 
-Each package in this library is designed for seamless integration into your workflow. Installation and usage methods may vary depending on the specific tool and programming language. 
+Este repositorio sirve como un hub central para varios paquetes independientes. Cada herramienta está diseñada con una identidad única y un propósito específico, que abarca desde el manejo de datos hasta la optimización de redes. 
 
-Please refer to the individual documentation for each package to find the appropriate installation commands (via package managers like `pip`, `npm`, `cargo`, etc.) and usage examples tailored to your environment.
-
----
-
-## ⚖️ License
-
-All projects within this repository are protected under the **OMIT PUBLIC LICENSE (OPL) v2.1**.
-
-### ✅ You Can:
-* **Use** any library for Personal, Educational, and Commercial purposes.
-* **Distribute** the compiled binaries/packages as provided by OMIT-Official.
-
-### ❌ You Cannot:
-* **Modify** the source code or create derivative works.
-* **Reverse Engineer**, decompile, or disassemble the libraries.
-* **Resell** the libraries as standalone products.
-* **Redistribute** the source code.
-
-> ⚠️ **Note:** These tools are provided free of charge to empower developers. Violation of these terms will result in immediate termination of rights and potential legal action under Italian Law. See the `LICENSE` file for full terms and conditions.
+Regularmente se añaden nuevas herramientas a esta colección. Para obtener documentación detallada e instrucciones de instalación de cada paquete específico, por favor consulta las carpetas individuales o las notas de lanzamiento oficiales.
 
 ---
 
-## 🛡️ Security & Integrity
+## ⚙️ Uso General
 
-Every build released by OMIT-Official contains a unique **Build ID** for integrity verification. We prioritize the security and stability of our tools. If you encounter any issues or suspect tampering, please report the Build ID found in your logs to our support channel.
+Cada paquete en esta librería está diseñado para una integración fluida en tu flujo de trabajo. Los métodos de instalación y uso pueden variar según la herramienta específica y el lenguaje de programación. 
+
+Por favor, consulta la documentación individual de cada paquete para encontrar los comandos de instalación adecuados (a través de gestores de paquetes como `pip`, `npm`, `cargo`, etc.) y los ejemplos de uso adaptados a tu entorno.
 
 ---
 
-## 🔗 Connect with OMIT-Official
+## ⚖️ Licencia
 
-* **Organization:** [github.com/OMIT-Official](https://github.com/OMIT-Official)
-* **Support:** Open an Issue
+Todos los proyectos dentro de este repositorio están protegidos bajo la **LICENCIA PÚBLICA OMIT (OPL) v2.1**.
+
+### ✅ Puedes:
+* **Usar** cualquier librería para fines Personales, Educativos y Comerciales.
+* **Distribuir** los binarios/paquetes compilados tal como los proporciona OMIT-Official.
+
+### ❌ No Puedes:
+* **Modificar** el código fuente o crear trabajos derivados.
+* **Aplicar Ingeniería Inversa**, deconstruir o desensamblar las librerías.
+* **Revender** las librerías como productos independientes.
+* **Redistribuir** el código fuente.
+
+> ⚠️ **Nota:** Estas herramientas se proporcionan de forma gratuita para empoderar a los desarrolladores. La violación de estos términos resultará en la terminación inmediata de los derechos y posibles acciones legales bajo la Ley Italiana. Consulta el archivo `LICENSE` para ver los términos y condiciones completos.
+
+---
+
+## 🛡️ Seguridad e Integridad
+
+Cada versión lanzada por OMIT-Official contiene un **ID de Compilación (Build ID)** único para la verificación de integridad. Priorizamos la seguridad y estabilidad de nuestras herramientas. Si encuentras algún problema o sospechas de manipulación, por favor reporta el ID de Compilación que aparece en tus registros a nuestro canal de soporte.
+
+---
+
+## 🔗 Conéctate con OMIT-Official
+
+* **Organización:** [github.com/OMIT-Official](https://github.com/OMIT-Official)
+* **Soporte:** Abrir un Issue (Problema)
 
 ***
 
-*© 2026 OMIT-Official. All Rights Reserved.*
+*© 2026 OMIT-Official. Todos los derechos reservados.*
